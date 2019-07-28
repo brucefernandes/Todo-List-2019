@@ -1,0 +1,36 @@
+body{
+	background: white url("todo/todo_back.jpg");
+
+}
+.navbar {
+ 	min-height: 40px;
+}
+
+.navbar-brand{
+	font-family: 'Satisfy', italic;
+
+
+	padding: 15px,;
+	height: 15px;
+	line-height: 10px;
+
+
+}
+
+
+
+h2   {
+	font-family: 'Indie Flower', italic;
+	color: white;
+	font-size: 50;
+	text-align: center;
+
+
+}
+li{
+	font-family: 'Indie Flower';
+	color: black;
+	font-size: 23;
+	text-align: center;
+
+}
